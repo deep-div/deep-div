@@ -1,6 +1,5 @@
 <h2 align="left">Designing intelligent systems, optimizing pipelines, and deploying AI that actually performs.</h2>
 
----
 
 ### 🚀 **Tech Summary**
 - 🤖 **AI/ML Engineering** — GenAI, RAG, LLMs, Multi-Agent Systems, Dense Retrievers, PyTorch, TensorFlow, NLP, Computer Vision  
@@ -34,16 +33,17 @@
 ## 🔗 Connect With Me
 
 <div align="left">
-<a href="https://www.linkedin.com/in/deep-div/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-</a>
-
-<a href="mailto:3041div@gmail.com">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-</a>
+  <a href="https://www.linkedin.com/in/deep-div/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
+  </a>&nbsp;
+  <a href="mailto:3041div@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35" />
+  </a>
 </div>
 
 
+
+<br>
 <div align="center">
   <a href="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake eating my contributions" />
