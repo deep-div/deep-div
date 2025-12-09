@@ -29,12 +29,11 @@
 </div>
 
 
----
+
 
 ## 🔗 Connect With Me
 
 <div align="left">
-
 <a href="https://www.linkedin.com/in/deep-div/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
 </a>
@@ -42,18 +41,15 @@
 <a href="mailto:3041div@gmail.com">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
 </a>
-
 </div>
 
----
-
-## 🐍 Working Snake Animation (Fixed)
-
-> (Your old link was outdated — this one works)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deep-div/deep-div/output/snake.svg" alt="Snake eating my contributions" />
+  <a href="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake eating my contributions" />
+  </a>
 </div>
+
 
 ---
 
