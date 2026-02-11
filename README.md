@@ -4,6 +4,5 @@
 - 🔐 Interested in Backend & System Design
 
 ## 🛠️ AI/ML & Production Engineering  
+Python | PyTorch | TensorFlow | NLP | FastAPI | Docker | Kubernetes | Databases | Git | Linux | DevOps  <br>
 Model Development → Deployment → Scaling → Monitoring 
-
-Python | PyTorch | TensorFlow | NLP | FastAPI | Docker | Kubernetes | Databases | Git | Linux | DevOps  
