@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a software engineer specializing in AI-driven solutions, with a focus on turning ideas into production-ready applications. I work across the stack, from backend systems and APIs to user facing web platforms, and I'm particularly interested in AI & machine learning, software development, and building tools people actually use.
+I'm a software engineer specializing in AI driven solutions, with a focus on turning ideas into production-ready applications. I work across the stack, from backend systems and APIs to user facing web platforms, and I'm particularly interested in AI & machine learning, software development, and building tools people actually use.
 
 ### What I Build
 
