@@ -1,20 +1,20 @@
-# Hi, I'm Divyanshu
+### Hi, I'm Divyanshu
 
 Software Engineer specializing in AI solutions with 5+ years of experience building scalable software, web applications, and backend systems.
 
-## Interests
+#### Interests
 
-* AI & Machine Learning
-* Software Development
-* Web Applications
+- AI & Machine Learning
+- Software Development
+- Web Applications
 
-## Featured Project
+#### Featured Project
 
-* Fund Screener: https://fundscreener.online/
+- Fund Screener: https://fundscreener.online/
 
-## What I Build
+#### What I Build
 
-* AI-powered applications
-* Web platforms and SaaS products
-* Backend systems and APIs
-* Cloud-native solutions
+- AI-powered applications
+- Web platforms and SaaS products
+- Backend systems and APIs
+- Cloud-native solutions
