@@ -1,12 +1,20 @@
-# 👋 Hi, I'm Divyanshu – AI/ML Engineer & Problem Solver  
+# Hi, I'm Divyanshu
 
-- 🌱 Passionate about building intelligent systems and scalable solutions  
-- 🔐 Interested in Backend & System Design  
+Software Engineer specializing in AI solutions with 5+ years of experience building scalable software, web applications, and backend systems.
 
-## 🚀 Personal Projects  
-- 🔎 Fund Screener: https://fundscreener.online/  
+## Interests
 
-## 🛠️ AI/ML & Production Engineering  
-Python | PyTorch | TensorFlow | NLP | FastAPI | Docker | Kubernetes | Databases | Git | Linux | DevOps  
+* AI & Machine Learning
+* Software Development
+* Web Applications
 
-Model Development → Deployment → Scaling → Monitoring  
+## Featured Project
+
+* Fund Screener: https://fundscreener.online/
+
+## What I Build
+
+* AI-powered applications
+* Web platforms and SaaS products
+* Backend systems and APIs
+* Cloud-native solutions
