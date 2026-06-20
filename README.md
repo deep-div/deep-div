@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/deep-div/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
 ### About Me
 
 I'm a software engineer specializing in AI-driven solutions, with a focus on turning ideas into production-ready applications. I work across the stack, from backend systems and APIs to user facing web platforms, and I'm particularly interested in AI & machine learning, software development, and building tools people actually use.
